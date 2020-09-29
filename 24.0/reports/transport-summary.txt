@@ -1,0 +1,1322 @@
+Accepted   G1HPY-28624-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1HPY-28595-MONOMER    Na+                      SECONDARY 
+           na+/pi symporter
+           Na+[periplasm] + H+[periplasm]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1HPY-28556-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HPY-28539-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           predicted udp-galactose transporter
+           UDP-alpha-D-galactose[periplasm]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1HPY-28512-MONOMER    Fe3+                     UNKNOWN   
+           iron transporter
+           Fe3+[periplasm]  ->  Fe3+[cytosol]
+Accepted   G1HPY-28505-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HPY-33152-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1HPY-30651-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-30650-MONOMER    a nucleoside             UNKNOWN   
+           nucleoside transporter
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1HPY-26233-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-30604-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1HPY-30597-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-30593-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-26207-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-26165-MONOMER    hydrogencarbonate        UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1HPY-26165-MONOMER    chloride                 UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1HPY-26153-MONOMER    a nucleotide             UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HPY-26153-MONOMER    guanine                  UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HPY-26126-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-26107-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1HPY-23338-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-28737-MONOMER    oxalate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           oxalate[periplasm]  ->  oxalate[cytosol]
+Accepted   G1HPY-28737-MONOMER    hydrogencarbonate        UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1HPY-28737-MONOMER    sulfate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           sulfate[periplasm]  ->  sulfate[cytosol]
+Accepted   G1HPY-23306-MONOMER    a nucleotide             UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HPY-23306-MONOMER    guanine                  UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HPY-28680-MONOMER    a cation                 CHANNEL   
+           ca2+-permeable cation channel osm-9 and related channels (otrpc family)
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1HPY-23266-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-23269-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1HPY-23271-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-32229-MONOMER    guanine                  UNKNOWN   
+           pattern-formation protein/guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HPY-23148-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1HPY-23099-MONOMER    cystine                  UNKNOWN   
+           cystine transporter cystinosin
+           cystine[periplasm]  <-  cystine[cytosol]
+Accepted   G1HPY-30705-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-30699-MONOMER    an amino acid            SECONDARY 
+           lst7 amino acid permease golgi transport protein
+           an amino acid[periplasm] + H+[periplasm]  ->  an amino acid[cytosol] + H+[cytosol]
+Accepted   G1HPY-26422-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-26419-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1HPY-26405-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-23005-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-26360-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-22936-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-26287-MONOMER    a long-chain acyl-CoA    UNKNOWN   
+           very long-chain acyl-coa synthetase/fatty acid transporter
+           a long-chain acyl-CoA[periplasm]  ->  a long-chain acyl-CoA[cytosol]
+Accepted   G1HPY-28857-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HPY-28848-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HPY-28819-MONOMER    chromate                 UNKNOWN   
+           chromate transmembrane transporter activity//chromate transport
+           chromate[periplasm]  ->  chromate[cytosol]
+Accepted   G1HPY-28787-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-28775-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HPY-26499-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-28945-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-23766-MONOMER    Cu2+                     UNKNOWN   
+           copper ion transmembrane transporter activity//copper ion transport//integral to membrane
+           Cu2+[periplasm]  ->  Cu2+[cytosol]
+Accepted   G1HPY-28902-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1HPY-28899-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1HPY-23746-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1HPY-23720-MONOMER    D-gluconate              UNKNOWN   
+           gluconate transport-inducing protein
+           D-gluconate[periplasm]  ->  D-gluconate[cytosol]
+Accepted   G1HPY-23680-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HPY-23649-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-30947-MONOMER    a nucleotide             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HPY-30947-MONOMER    a nucleoside             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1HPY-23572-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1HPY-23566-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-23467-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-32391-MONOMER    Cu2+                     UNKNOWN   
+           copper transporter
+           Cu2+[periplasm]  ->  Cu2+[cytosol]
+Accepted   G1HPY-32370-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1HPY-32364-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-32360-MONOMER    a nucleoside             UNKNOWN   
+           equilibrative nucleoside transporter protein
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1HPY-26768-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-29109-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HPY-29109-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HPY-26760-MONOMER    oxalate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           oxalate[periplasm]  ->  oxalate[cytosol]
+Accepted   G1HPY-26760-MONOMER    hydrogencarbonate        UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1HPY-26760-MONOMER    sulfate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           sulfate[periplasm]  ->  sulfate[cytosol]
+Accepted   G1HPY-29087-MONOMER    Ca2+                     SECONDARY 
+           k+-dependent ca2+/na+ exchanger nckx1 and related proteins
+           Ca2+[periplasm] + Na+[cytosol]  ->  Ca2+[cytosol] + Na+[periplasm]
+Accepted   G1HPY-29085-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-26679-MONOMER    UDP-alpha-D-galactose    UNKNOWN   
+           udp-galactose transporter related protein
+           UDP-alpha-D-galactose[periplasm]  ->  UDP-alpha-D-galactose[cytosol]
+Accepted   G1HPY-29014-MONOMER    Zn2+                     UNKNOWN   
+           zinc transporter and related zip domain-containing proteins
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1HPY-29011-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-29005-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-26647-MONOMER    a cation                 ATP       
+           cation transport atpase
+           a cation[periplasm] + ATP + H2O  ->  a cation[cytosol] + ADP + phosphate
+Accepted   G1HPY-26606-MONOMER    K+                       SECONDARY 
+           na+/k+ transporter
+           K+[periplasm] + Na+[periplasm]  ->  K+[cytosol] + Na+[cytosol]
+Accepted   G1HPY-31009-MONOMER    Na+                      SECONDARY 
+           na+/pi symporter
+           Na+[periplasm] + H+[periplasm]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1HPY-32469-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-3 and related proteins (clc superfamily)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1HPY-32450-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-32432-MONOMER    a glycan                 UNKNOWN   
+           lectin vip36, involved in the transport of glycoproteins carrying high mannose-type glycans
+           a glycan[periplasm]  ->  a glycan[cytosol]
+Accepted   G1HPY-32411-MONOMER    Zn2+                     UNKNOWN   
+           zip-like zinc transporter proteins
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1HPY-24064-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-24047-MONOMER    K+                       SECONDARY 
+           na+/k+ transporter
+           K+[periplasm] + Na+[periplasm]  ->  K+[cytosol] + Na+[cytosol]
+Accepted   G1HPY-29238-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1HPY-29223-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           urea[periplasm]  <-->  urea[cytosol]
+Accepted   G1HPY-29222-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-29213-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-24022-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-23981-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-23987-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1HPY-26923-MONOMER    cholesterol              UNKNOWN   
+           cholesterol transport protein (niemann-pick c disease protein)
+           cholesterol[periplasm]  ->  cholesterol[cytosol]
+Accepted   G1HPY-23974-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-29143-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HPY-31102-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-31054-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1HPY-23892-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-23863-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1HPY-23825-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-33379-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HPY-29342-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-29309-MONOMER    a bile acid              SECONDARY 
+           bile acid:sodium symporter activity//membrane//sodium ion transport
+           a bile acid[periplasm] + H+[periplasm]  ->  a bile acid[cytosol] + H+[cytosol]
+Accepted   G1HPY-27108-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1HPY-32577-MONOMER    Fe2+                     SECONDARY 
+           mitochondrial fe2+ transporter mmt1 and related transporters (cation diffusion facilitator superfamily)
+           Fe2+[periplasm] + H+[periplasm]  ->  Fe2+[cytosol] + H+[cytosol]
+Accepted   G1HPY-32534-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-27016-MONOMER    hydrogencarbonate        UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1HPY-27016-MONOMER    chloride                 UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1HPY-24351-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-24349-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-24181-MONOMER    Zn2+                     UNKNOWN   
+           putative zinc transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1HPY-24170-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-24163-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-24142-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-31275-MONOMER    uracil                   UNKNOWN   
+           xanthine/uracil transporters
+           uracil[periplasm]  <-  uracil[cytosol]
+Accepted   G1HPY-31275-MONOMER    xanthine                 UNKNOWN   
+           xanthine/uracil transporters
+           xanthine[periplasm]  <-  xanthine[cytosol]
+Accepted   G1HPY-31251-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HPY-31251-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HPY-32612-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-29479-MONOMER    choline                  UNKNOWN   
+           choline transporter-like protein
+           choline[periplasm]  ->  choline[cytosol]
+Accepted   G1HPY-29476-MONOMER    D-glucose 6-phosphate    SECONDARY 
+           glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter
+           D-glucose 6-phosphate[periplasm] + phosphate[cytosol]  ->  D-glucose 6-phosphate[cytosol] + phosphate[periplasm]
+Accepted   G1HPY-29463-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1HPY-29451-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HPY-29431-MONOMER    a cation                 ATP       
+           cation transport atpase
+           a cation[periplasm] + ATP + H2O  ->  a cation[cytosol] + ADP + phosphate
+Accepted   G1HPY-29417-MONOMER    a nucleotide             UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HPY-29417-MONOMER    guanine                  UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HPY-29409-MONOMER    Fe2+                     SECONDARY 
+           mitochondrial fe2+ transporter mmt1 and related transporters (cation diffusion facilitator superfamily)
+           Fe2+[periplasm] + H+[periplasm]  ->  Fe2+[cytosol] + H+[cytosol]
+Accepted   G1HPY-33422-MONOMER    choline                  UNKNOWN   
+           choline transporter-like protein
+           choline[periplasm]  ->  choline[cytosol]
+Accepted   G1HPY-27211-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-27198-MONOMER    Zn2+                     SECONDARY 
+           putative zn2+ transporter msc2 (cation diffusion facilitator superfamily)
+           Zn2+[periplasm] + H+[periplasm]  ->  Zn2+[cytosol] + H+[cytosol]
+Accepted   G1HPY-27193-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1HPY-27171-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-33436-MONOMER    Mg2+                     UNKNOWN   
+           magnesium transporters: cora family
+           Mg2+[periplasm]  ->  Mg2+[cytosol]
+Accepted   G1HPY-29611-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-29604-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-29582-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-24640-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-24637-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           urea[periplasm]  <-->  urea[cytosol]
+Accepted   G1HPY-24626-MONOMER    a nucleotide             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HPY-24626-MONOMER    a nucleoside             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1HPY-24521-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-24462-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-3 and related proteins (clc superfamily)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1HPY-27382-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           urea[periplasm]  <-->  urea[cytosol]
+Accepted   G1HPY-24430-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1HPY-27342-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-32735-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1HPY-33474-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-29726-MONOMER    uracil                   UNKNOWN   
+           xanthine/uracil transporters
+           uracil[periplasm]  <-  uracil[cytosol]
+Accepted   G1HPY-29726-MONOMER    xanthine                 UNKNOWN   
+           xanthine/uracil transporters
+           xanthine[periplasm]  <-  xanthine[cytosol]
+Accepted   G1HPY-29720-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-29695-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-29654-MONOMER    Na+                      SECONDARY 
+           na+/pi symporter
+           Na+[periplasm] + H+[periplasm]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1HPY-32807-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-27595-MONOMER    a nucleotide             UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HPY-27595-MONOMER    guanine                  UNKNOWN   
+           ras1 guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HPY-27586-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporter protein
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-24911-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HPY-31505-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-24848-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HPY-31493-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-24831-MONOMER    a nucleoside             UNKNOWN   
+           equilibrative nucleoside transporter protein
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1HPY-31492-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-31484-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-24800-MONOMER    a nucleoside             SECONDARY 
+           concentrative na+-nucleoside cotransporter cnt1/cnt2
+           a nucleoside[periplasm] + Na+[periplasm]  ->  a nucleoside[cytosol] + Na+[cytosol]
+Accepted   G1HPY-24786-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-29855-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-29762-MONOMER    a nucleotide             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HPY-29762-MONOMER    a nucleoside             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1HPY-31571-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-31561-MONOMER    hydrogencarbonate        UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1HPY-31561-MONOMER    chloride                 UNKNOWN   
+           na+-independent cl/hco3 exchanger ae1 and related transporters (slc4 family)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1HPY-27754-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1HPY-27709-MONOMER    a dicarboxylate          SECONDARY 
+           na+/dicarboxylate, na+/tricarboxylate and phosphate transporters
+           a dicarboxylate[periplasm] + Na+[periplasm]  ->  a dicarboxylate[cytosol] + Na+[cytosol]
+Accepted   G1HPY-27660-MONOMER    a nucleotide             UNKNOWN   
+           camp-regulated guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HPY-27660-MONOMER    guanine                  UNKNOWN   
+           camp-regulated guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HPY-29950-MONOMER    a nucleotide             UNKNOWN   
+           rho/rac gtpase guanine nucleotide exchange factor smggds/vimar
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HPY-29950-MONOMER    guanine                  UNKNOWN   
+           rho/rac gtpase guanine nucleotide exchange factor smggds/vimar
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HPY-29948-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1HPY-29937-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HPY-25180-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-33543-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-25109-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-25067-MONOMER    Fe2+                     SECONDARY 
+           mitochondrial fe2+ transporter mmt1 and related transporters (cation diffusion facilitator superfamily)
+           Fe2+[periplasm] + H+[periplasm]  ->  Fe2+[cytosol] + H+[cytosol]
+Accepted   G1HPY-25041-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporter protein
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-31672-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-27882-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1HPY-33573-MONOMER    oxalate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           oxalate[periplasm]  ->  oxalate[cytosol]
+Accepted   G1HPY-33573-MONOMER    hydrogencarbonate        UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           hydrogencarbonate[periplasm]  ->  hydrogencarbonate[cytosol]
+Accepted   G1HPY-33573-MONOMER    sulfate                  UNKNOWN   
+           sulfate/bicarbonate/oxalate exchanger sat-1 and related transporters (slc26 family)
+           sulfate[periplasm]  ->  sulfate[cytosol]
+Accepted   G1HPY-27862-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-27859-MONOMER    a nucleotide             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HPY-27859-MONOMER    a nucleoside             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1HPY-33555-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-30070-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-30050-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-30039-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1HPY-30037-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-30019-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-31732-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-25381-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HPY-25378-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1HPY-25265-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-32931-MONOMER    cholesterol              UNKNOWN   
+           predicted mitochondrial cholesterol transporter
+           cholesterol[periplasm]  ->  cholesterol[cytosol]
+Accepted   G1HPY-28041-MONOMER    Cd2+                     SECONDARY 
+           zn2+ transporter znt1 and related cd2+/zn2+ transporters (cation diffusion facilitator superfamily)
+           Cd2+[periplasm] + Zn2+[periplasm]  ->  Cd2+[cytosol] + Zn2+[cytosol]
+Accepted   G1HPY-30097-MONOMER    Ca2+                     SECONDARY 
+           k+-dependent na+:ca2+ antiporter
+           Ca2+[periplasm] + Na+[cytosol]  ->  Ca2+[cytosol] + Na+[periplasm]
+Accepted   G1HPY-30097-MONOMER    K+                       SECONDARY 
+           k+-dependent na+:ca2+ antiporter
+           K+[periplasm] + Na+[cytosol]  ->  K+[cytosol] + Na+[periplasm]
+Accepted   G1HPY-27995-MONOMER    phaseic acid             UNKNOWN   
+           k+-channel erg and related proteins, contain pas/pac sensor domain
+           phaseic acid[periplasm]  ->  phaseic acid[cytosol]
+Accepted   G1HPY-30077-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-27951-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-31783-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-31774-MONOMER    a sugar                  UNKNOWN   
+           predicted sugar transporter
+           a sugar[periplasm]  ->  a sugar[cytosol]
+Accepted   G1HPY-31760-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-33009-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-30175-MONOMER    urea                     UNKNOWN   
+           urea transporter
+           urea[periplasm]  <-->  urea[cytosol]
+Accepted   G1HPY-25538-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-30164-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HPY-25527-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-25524-MONOMER    a siderophore            UNKNOWN   
+           siderophore biosynthetic process//siderophore-iron transmembrane transporter activity
+           a siderophore[periplasm]  ->  a siderophore[cytosol]
+Accepted   G1HPY-25523-MONOMER    Cd2+                     SECONDARY 
+           zn2+ transporter znt1 and related cd2+/zn2+ transporters (cation diffusion facilitator superfamily)
+           Cd2+[periplasm] + Zn2+[periplasm]  ->  Cd2+[cytosol] + Zn2+[cytosol]
+Accepted   G1HPY-25506-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HPY-28129-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-25430-MONOMER    a nucleotide sugar       UNKNOWN   
+           nucleotide-sugar transporter vrg4/sqv-7
+           a nucleotide sugar[periplasm]  ->  a nucleotide sugar[cytosol]
+Accepted   G1HPY-28069-MONOMER    Zn2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Zn2+[periplasm]  ->  Zn2+[cytosol]
+Accepted   G1HPY-25449-MONOMER    sucrose                  UNKNOWN   
+           sucrose transporter and related proteins
+           sucrose[periplasm]  ->  sucrose[cytosol]
+Accepted   G1HPY-33055-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-30370-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-30340-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-30290-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-28275-MONOMER    Na+                      SECONDARY 
+           predicted na+-dependent cotransporter
+           Na+[periplasm] + H+[periplasm]  ->  Na+[cytosol] + H+[cytosol]
+Accepted   G1HPY-28267-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-28265-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-28258-MONOMER    Cd2+                     SECONDARY 
+           zn2+ transporter znt1 and related cd2+/zn2+ transporters (cation diffusion facilitator superfamily)
+           Cd2+[periplasm] + Zn2+[periplasm]  ->  Cd2+[cytosol] + Zn2+[cytosol]
+Accepted   G1HPY-28247-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-25787-MONOMER    a metal cation           UNKNOWN   
+           membrane//metal ion transmembrane transporter activity//metal ion transport
+           a metal cation[periplasm]  ->  a metal cation[cytosol]
+Accepted   G1HPY-25784-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-25752-MONOMER    sucrose                  UNKNOWN   
+           sucrose transporter and related proteins
+           sucrose[periplasm]  ->  sucrose[cytosol]
+Accepted   G1HPY-25747-MONOMER    a cation                 UNKNOWN   
+           predicted cation transporter
+           a cation[periplasm]  ->  a cation[cytosol]
+Accepted   G1HPY-25691-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-25669-MONOMER    Cu2+                     UNKNOWN   
+           copper transporter
+           Cu2+[periplasm]  ->  Cu2+[cytosol]
+Accepted   G1HPY-22857-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HPY-22857-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HPY-25635-MONOMER    D-gluconate              UNKNOWN   
+           gluconate transport-inducing protein
+           D-gluconate[periplasm]  ->  D-gluconate[cytosol]
+Accepted   G1HPY-22823-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-22797-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HPY-22793-MONOMER    phosphate                UNKNOWN   
+           inorganic phosphate transporter
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1HPY-30448-MONOMER    K+                       SECONDARY 
+           na+/k+ transporter
+           K+[periplasm] + Na+[periplasm]  ->  K+[cytosol] + Na+[cytosol]
+Accepted   G1HPY-30427-MONOMER    chloride                 CHANNEL   
+           cl- channel clc-3 and related proteins (clc superfamily)
+           chloride[periplasm]  <-->  chloride[cytosol]
+Accepted   G1HPY-22786-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-31997-MONOMER    K+                       SECONDARY 
+           na+/k+ transporter
+           K+[periplasm] + Na+[periplasm]  ->  K+[cytosol] + Na+[cytosol]
+Accepted   G1HPY-30374-MONOMER    phosphate                UNKNOWN   
+           protein involved in inorganic phosphate transport
+           phosphate[periplasm]  <-  phosphate[cytosol]
+Accepted   G1HPY-22765-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-22751-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-22709-MONOMER    a nucleotide             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HPY-22709-MONOMER    a nucleoside             UNKNOWN   
+           membrane//nucleobase transmembrane transporter activity//nucleobase, nucleoside, nucleotide and nucleic acid transport
+           a nucleoside[periplasm]  ->  a nucleoside[cytosol]
+Accepted   G1HPY-28446-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HPY-28426-MONOMER    an inorganic anion       UNKNOWN   
+           inorganic anion transmembrane transporter activity//inorganic anion transport//integral to membrane
+           an inorganic anion[periplasm]  ->  an inorganic anion[cytosol]
+Accepted   G1HPY-28399-MONOMER    thiamine                 UNKNOWN   
+           uridine permease/thiamine transporter/allantoin transport
+           thiamine[periplasm]  ->  thiamine[cytosol]
+Accepted   G1HPY-28364-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-28354-MONOMER    Zn2+                     SECONDARY 
+           putative zn2+ transporter msc2 (cation diffusion facilitator superfamily)
+           Zn2+[periplasm] + H+[periplasm]  ->  Zn2+[cytosol] + H+[cytosol]
+Accepted   G1HPY-22637-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-22633-MONOMER    an amino acid            UNKNOWN   
+           amino acid transporters
+           an amino acid[periplasm]  ->  an amino acid[cytosol]
+Accepted   G1HPY-22629-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Accepted   G1HPY-22607-MONOMER    an oligopeptide          SECONDARY 
+           h+/oligopeptide symporter
+           an oligopeptide[periplasm] + H+[periplasm]  ->  an oligopeptide[cytosol] + H+[cytosol]
+Accepted   G1HPY-26019-MONOMER    chromate                 UNKNOWN   
+           chromate transmembrane transporter activity//chromate transport
+           chromate[periplasm]  ->  chromate[cytosol]
+Accepted   G1HPY-26000-MONOMER    ammonia                  SECONDARY 
+           ammonia permease
+           ammonia[periplasm] + H+[periplasm]  ->  ammonia[cytosol] + H+[cytosol]
+Accepted   G1HPY-25958-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1HPY-22497-MONOMER    phaseic acid             UNKNOWN   
+           k+-channel erg and related proteins, contain pas/pac sensor domain
+           phaseic acid[periplasm]  ->  phaseic acid[cytosol]
+Accepted   G1HPY-22491-MONOMER    a nucleotide             UNKNOWN   
+           guanine nucleotide exchange factor
+           a nucleotide[periplasm]  ->  a nucleotide[cytosol]
+Accepted   G1HPY-22491-MONOMER    guanine                  UNKNOWN   
+           guanine nucleotide exchange factor
+           guanine[periplasm]  ->  guanine[cytosol]
+Accepted   G1HPY-30540-MONOMER    Ca2+                     SECONDARY 
+           ca2+/h+ antiporter vcx1 and related proteins
+           Ca2+[periplasm] + H+[cytosol]  ->  Ca2+[cytosol] + H+[periplasm]
+Accepted   G1HPY-30467-MONOMER    a monocarboxylate        UNKNOWN   
+           monocarboxylate transporter
+           a monocarboxylate[periplasm]  ->  a monocarboxylate[cytosol]
+Unreviewed G1HPY-28624-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1HPY-33157-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1HPY-33152-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1HPY-30604-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1HPY-23206-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1HPY-26294-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HPY-28820-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HPY-30824-MONOMER    K+                       UNKNOWN   
+           membrane//potassium ion transmembrane transporter activity//potassium ion transport
+           Several possible reactions available for import
+Unreviewed G1HPY-32370-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1HPY-26687-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HPY-29238-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1HPY-29232-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HPY-23933-MONOMER    H+                       SECONDARY 
+           integral to membrane//regulation of ph//solute:hydrogen antiporter activity
+           Several possible reactions available for import
+Unreviewed G1HPY-23893-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HPY-27048-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1HPY-24408-MONOMER    H+                       SECONDARY 
+           integral to membrane//regulation of ph//solute:hydrogen antiporter activity
+           Several possible reactions available for import
+Unreviewed G1HPY-32822-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HPY-32813-MONOMER    Fe2+                     UNKNOWN   
+           mn2+ and fe2+ transporters of the nramp family
+           Several possible reactions available for import
+Unreviewed G1HPY-32813-MONOMER    Mn2+                     UNKNOWN   
+           mn2+ and fe2+ transporters of the nramp family
+           Several possible reactions available for import
+Unreviewed G1HPY-27785-MONOMER    Ca2+                     UNKNOWN   
+           voltage-gated ca2+ channels, alpha1 subunits
+           Several possible reactions available for import
+Unreviewed G1HPY-31733-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HPY-25258-MONOMER    K+                       CHANNEL   
+           tandem pore domain k+ channel
+           Several possible reactions available for import
+Unreviewed G1HPY-28000-MONOMER    K+                       UNKNOWN   
+           predicted k+/h+-antiporter
+           Several possible reactions available for import
+Unreviewed G1HPY-27984-MONOMER    K+                       UNKNOWN   
+           predicted k+/h+-antiporter
+           Several possible reactions available for import
+Unreviewed G1HPY-32982-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HPY-25594-MONOMER    Na+                      SECONDARY 
+           sodium/hydrogen exchanger protein
+           Several possible reactions available for import
+Unreviewed G1HPY-30185-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1HPY-28069-MONOMER    Fe2+                     UNKNOWN   
+           fe2+/zn2+ regulated transporter
+           Several possible reactions available for import
+Unreviewed G1HPY-28266-MONOMER    Na+                      SECONDARY 
+           na+/h+ antiporter
+           Several possible reactions available for import
+Unreviewed G1HPY-22700-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+Unreviewed G1HPY-30525-MONOMER    K+                       CHANNEL   
+           voltage-gated shaker-like k+ channel, subunit beta/kcnab
+           Several possible reactions available for import
+
+
+Unreviewed G1HPY-22612-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22660-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22682-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22691-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22697-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22716-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22795-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22802-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22813-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22822-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22827-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22828-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22831-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22833-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22837-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22839-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22842-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22870-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22915-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22947-MONOMER  (no substrate identified)
+Unreviewed G1HPY-22983-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23003-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23114-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23129-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23135-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23147-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23166-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23202-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23251-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23313-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23334-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23335-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23348-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23361-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23492-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23514-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23529-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23548-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23550-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23553-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23604-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23611-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23642-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23654-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23666-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23744-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23752-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23761-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23795-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23817-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23834-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23855-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23879-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23889-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23898-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23920-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23926-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23929-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23947-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23950-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23951-MONOMER  (no substrate identified)
+Unreviewed G1HPY-23964-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24021-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24080-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24111-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24113-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24118-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24161-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24173-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24191-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24247-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24255-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24264-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24267-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24273-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24352-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24362-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24375-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24437-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24498-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24509-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24523-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24532-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24574-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24608-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24615-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24635-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24636-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24650-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24656-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24669-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24714-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24852-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24884-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24920-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24929-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24936-MONOMER  (no substrate identified)
+Unreviewed G1HPY-24944-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25073-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25080-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25107-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25121-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25146-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25186-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25215-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25222-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25276-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25297-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25299-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25325-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25331-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25356-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25365-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25366-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25367-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25409-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25414-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25416-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25423-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25451-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25470-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25507-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25581-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25632-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25749-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25825-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25833-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25856-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25861-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25868-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25894-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25914-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25920-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25939-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25970-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25984-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25990-MONOMER  (no substrate identified)
+Unreviewed G1HPY-25999-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26027-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26064-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26079-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26145-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26167-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26211-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26223-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26244-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26268-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26334-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26355-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26378-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26397-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26399-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26413-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26491-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26534-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26539-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26576-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26593-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26621-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26623-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26682-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26804-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26815-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26840-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26844-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26897-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26900-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26914-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26924-MONOMER  (no substrate identified)
+Unreviewed G1HPY-26927-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27005-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27041-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27049-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27173-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27177-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27184-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27192-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27210-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27230-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27281-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27296-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27304-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27330-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27349-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27353-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27365-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27380-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27387-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27406-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27470-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27632-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27803-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27844-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27864-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27867-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27868-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27872-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27873-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27883-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27896-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27952-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27962-MONOMER  (no substrate identified)
+Unreviewed G1HPY-27990-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28001-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28010-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28012-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28037-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28042-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28079-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28111-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28153-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28200-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28239-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28268-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28269-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28290-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28295-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28334-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28394-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28575-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28579-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28589-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28604-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28613-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28656-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28681-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28690-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28691-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28700-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28840-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28865-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28894-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28910-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28979-MONOMER  (no substrate identified)
+Unreviewed G1HPY-28985-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29053-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29081-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29086-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29100-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29103-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29107-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29173-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29176-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29178-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29200-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29218-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29219-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29235-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29244-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29382-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29406-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29464-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29478-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29484-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29486-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29488-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29489-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29495-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29520-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29533-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29573-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29574-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29602-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29607-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29613-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29645-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29646-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29685-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29692-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29729-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29738-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29742-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29746-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29849-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29860-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29886-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29932-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29933-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29934-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29936-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29968-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29983-MONOMER  (no substrate identified)
+Unreviewed G1HPY-29991-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30026-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30066-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30137-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30207-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30214-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30235-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30243-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30275-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30308-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30309-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30327-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30335-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30365-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30416-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30417-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30423-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30439-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30449-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30472-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30481-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30486-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30523-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30533-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30537-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30555-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30638-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30661-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30671-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30680-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30688-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30746-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30748-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30754-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30774-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30776-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30781-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30931-MONOMER  (no substrate identified)
+Unreviewed G1HPY-30984-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31098-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31169-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31176-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31218-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31221-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31254-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31297-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31385-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31392-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31435-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31452-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31471-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31482-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31528-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31530-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31574-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31588-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31589-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31599-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31609-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31627-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31642-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31643-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31702-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31705-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31788-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31806-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31824-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31853-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31875-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31945-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31995-MONOMER  (no substrate identified)
+Unreviewed G1HPY-31996-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32017-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32020-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32025-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32042-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32118-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32162-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32188-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32275-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32285-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32295-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32317-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32400-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32405-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32431-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32483-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32517-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32579-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32617-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32631-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32644-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32677-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32690-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32692-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32693-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32726-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32736-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32817-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32879-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32891-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32895-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32911-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32967-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32973-MONOMER  (no substrate identified)
+Unreviewed G1HPY-32974-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33015-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33087-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33165-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33169-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33174-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33259-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33320-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33339-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33414-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33455-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33457-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33478-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33495-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33523-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33525-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33527-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33535-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33546-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33557-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33622-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33647-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33649-MONOMER  (no substrate identified)
+Unreviewed G1HPY-33694-MONOMER  (no substrate identified)
